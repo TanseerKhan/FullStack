@@ -4,15 +4,23 @@ HTML
 --markup: (design of text)highlight, bold, italics, colored fonts, Numbered list etc
 
 
+block tags
 <p>
 --starting tag
 </p>
 --ending tag
 
 
+
 self closing tags
 --some tags do not need ending tags
-<hr> is a self closing tag
+<hr> is a self closing tag --horizontal rule
 
 
+
+tags:
+--p : paragraph
+--h1,h2,h3,h4 : headings
+--hr : dividing line
+--
 
