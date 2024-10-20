@@ -8,6 +8,11 @@ HTML
 --starting tag
 </p>
 --ending tag
+
+
+self closing tags
 --some tags do not need ending tags
+<hr> is a self closing tag
+
 
 
